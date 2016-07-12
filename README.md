@@ -33,8 +33,8 @@ You should be able to go to `rails c` and create new course, recipes (and ingred
 - Course.first.recipes
 - Recipe.first.course
 - Recipe.first.ingredients (bonus)
-- Ingredients.first.recipe (bonus)
-- Ingredients.first.recipe.course (bonus)
+- Ingredients.first.recipes (bonus)
+- Ingredients.first.recipes.first.course (bonus)
 
 ## Additional Resources
 
