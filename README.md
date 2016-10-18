@@ -20,7 +20,7 @@ For this lab, we are going to build a Cookbook app with several models that inte
 - Test if associations works in the Rails console (`rails c`)
 
 **Bonus:**
-- Create a model `Ingredient` and a has_many and belongs_to relations between recipes and ingredients (Hints: You need a Join table)
+- Create a model `Ingredient` and a many_to_many relations between recipes and ingredients (Hints: You need a Join table)
 
 **OPTIONAL** for tomorrow
 - Be sure to create the RESTful controller actions and the corresponding routes
